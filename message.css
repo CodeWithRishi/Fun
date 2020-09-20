@@ -1,0 +1,47 @@
+.box{
+    width: 400px;
+    height: 500px;
+    text-align: center;
+    float: center;
+    border: 12px black solid;
+    background-image: linear-gradient(purple,violet,pink);
+}
+
+.divdistance{
+    margin: 34px;
+}
+
+
+
+h1{
+    background-image: radial-gradient(yellow , orange);
+}
+
+
+.inputdistance{
+    margin: 12px;
+}
+
+
+.summitbutton{
+    width:7px;
+
+}
+
+
+.message{
+    width: 300px;
+    height: 140px;
+}
+
+
+button{
+    width: 100px;
+    height: 48px;
+    background-image: linear-gradient(rgb(94, 1, 94),rgb(224, 89, 224),rgb(226, 223, 223));
+}
+
+h2{
+    text-align: center;
+    color: red;
+}
